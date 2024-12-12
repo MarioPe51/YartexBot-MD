@@ -16,6 +16,7 @@ const __dirname = global.__dirname(import.meta.url)
 
 global.owner = [
 ['5493873687620', '✨ YartexBot-MD', true],
+['51976640251 '],
 ['593968263524'],
 ['5214434703586'],
 ['595976126756'],
@@ -28,7 +29,7 @@ global.botNumberCode = '' //Ejemplo: +59309090909
 global.confirmCode = ''
 
 global.suittag = ['5214531287294']
-global.mods = []
+global.mods = [54 9 11 3242-7855]
 global.prems = []
 
 //Solo desarrolladores aprobados
